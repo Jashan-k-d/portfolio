@@ -1,0 +1,22 @@
+[
+    {
+        "role": "Computer Systems Technician Software Support",
+        "organisation": "Mohawk College",
+        "startDate": "Jan 2024",
+        "endDate": "Present",
+        "experiences": [
+            "2 times honored with Dean's honors of Awards "
+        ],
+        "imageSrc": "history/google.png"
+    },
+    {
+        "role": "Software Engineering Virtual Experience",
+        "organisation": "Forage",
+        "startDate": "December 2024",
+        "endDate": "Present",
+        "experiences": [
+            "Proposed features, created diagrams, and optimized code for The Sims 4 using C#."
+        ],
+        "imageSrc": "history/electronic-arts.png"
+    }
+]

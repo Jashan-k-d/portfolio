@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Portfolio",
+        "imageSrc": "projects/project3.png",
+        "description": "Developed a personal portfolio website using React, showcasing my software development projects",
+        "skills": [
+            "React",
+            "Javascript"
+        ],
+        "source": "https://www.github.com/Jashan-K-d/portfolio"
+    },
+    {
+        "title": "Cafe Website",
+        "imageSrc": "projects/project2.jpg",
+        "description": "Built a responsive WordPress website for a local cafe, including features such as an online menu,calendar, and contact forms",
+        "skills": [
+            "Wordpress"
+        ],
+        "source": "https://www.github.com/Jashan-K-d/cafe-website"
+    },
+    {
+        "title": "Currency Convertor",
+        "imageSrc": "projects/project1.jpg",
+        "description": "Built a currency converter using HTML, CSS, JavaScript, and a REST API to fetch real-time exchange rates.",
+        "skills": [
+            "Javascript",
+            "API",
+            "HTML/CSS"
+        ],
+        "source": "https://www.github.com/Jashan-K-d/currency-convertor"
+    }
+]
